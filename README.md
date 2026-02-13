@@ -145,7 +145,7 @@ The Python risk engine consolidates module alerts and generates a final system r
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/cox-sentinel.git
+git clone https://github.com/Souvik-200/Cyber-Operation-X-Sentinel-.git
 cd cox-sentinel
 ```
 
